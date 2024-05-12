@@ -1,9 +1,9 @@
 # Archive_Project
 
-## Project Description
+### Project Description
 This Bash script automates file management tasks within a specified folder. It handles archiving, deletion of old files, and compression of large files.
 
-## Usage
+### Usage
 To use the script, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the script.
@@ -11,10 +11,10 @@ To use the script, follow these steps:
 4. Optionally, adjust the threshold values for file age and size.
 5. Run the script using Bash: `bash script.sh`.
 
-## Dependencies
+### Dependencies
 This script requires Bash to run. No additional dependencies are needed.
 
-## Installation
+### Installation
 To install the script, simply clone the repository to your local machine
 
 # ToDo_List Project 
