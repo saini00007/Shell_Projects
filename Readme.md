@@ -19,18 +19,18 @@ To install the script, simply clone the repository to your local machine
 
 # ToDo_List Project 
 
-## Project Description
+### Project Description
 
 This Bash script provides a simple command-line interface for managing a todo list. You can add tasks, mark them as completed, list all tasks, and clear completed tasks.
 
-## Features
+### Features
 
 - Add tasks to the todo list.
 - Mark tasks as completed.
 - List all tasks in the todo list.
 - Clear completed tasks from the todo list.
 
-## Usage
+### Usage
 
 1. **Add Task**: Add a new task to the todo list.
    
@@ -42,16 +42,10 @@ This Bash script provides a simple command-line interface for managing a todo li
    
   
 
-## File Structure
+### File Structure
 
 - `todo_list.sh`: The main Bash script for managing the todo list.
 - `todo.txt`: The file where tasks are stored.
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust and expand upon this template to better suit your needs or preferences!
